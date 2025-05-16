@@ -4,4 +4,4 @@
 * Lime
 * Salt
 ## Instructions
-* Cut up some avocados (Jason 2)
+* Cut up avocados
