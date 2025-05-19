@@ -5,3 +5,4 @@
 * Salt
 ## Instructions
 * Cut up avocados
+* Mash with lime and salt
