@@ -7,3 +7,4 @@
 ## Instructions
 * Cut up avocados
 * Mash with lime and salt
+* Mix ingredients well
