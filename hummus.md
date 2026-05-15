@@ -2,6 +2,7 @@
 
 ## Ingredients
 * Chickpeas
+* Peanut butter
 * Lemon
 * Garlic
 
